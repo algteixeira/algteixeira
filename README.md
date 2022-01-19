@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm André Teixeira</h1>
 <h3 align="center">A novice in the software development world!!</h3>
 
-- 📫 How to reach me **algteixeira@inf.ufpel.edu.br**
+- 📫 How to reach me: **algteixeira@inf.ufpel.edu.br**
 
 - ⚡ Fun fact **The more i learn the more i feel i need to learn. :rofl:**
 
