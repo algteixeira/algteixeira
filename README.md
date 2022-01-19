@@ -1,4 +1,4 @@
-[![MasterHead](https://miuc.org/wp-content/uploads/2020/08/6-Reasons-why-you-should-learn-Programming-1280x720.png)]
+![MasterHead](https://miuc.org/wp-content/uploads/2020/08/6-Reasons-why-you-should-learn-Programming-1280x720.png)
 <h1 align="center">Hi 👋, I'm André Teixeira</h1>
 <h3 align="center">A novice in the software development world!!</h3>
 
