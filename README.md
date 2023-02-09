@@ -1,8 +1,8 @@
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
 <h1 align="center">Hi 👋, I'm André Teixeira</h1>
-<h3 align="center">A novice in the software development world!!</h3>
+<h3 align="center">Just another dedicated software developer in this world!!</h3>
 
-- 📫 How to reach me: **algteixeira@inf.ufpel.edu.br**
+- 📫 How to reach me: **andregteix@gmail.com**
 
 - ⚡ Fun fact **The more i learn the more i feel i need to learn. :rofl:**
 
