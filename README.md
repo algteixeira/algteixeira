@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm André Teixeira</h1>
 <h3 align="center">Just another dedicated software developer in this world!!</h3>
 
+- Working as a NodeJS Backend Developer in Compass UOL since jan, 2022.
+
 - 📫 How to reach me: **andregteix@gmail.com**
 
 - ⚡ Fun fact **The more i learn the more i feel like i have to learn. :rofl:**
