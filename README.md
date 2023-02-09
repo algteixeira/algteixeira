@@ -4,7 +4,7 @@
 
 - 📫 How to reach me: **andregteix@gmail.com**
 
-- ⚡ Fun fact **The more i learn the more i feel i need to learn. :rofl:**
+- ⚡ Fun fact **The more i learn the more i feel like i have to learn. :rofl:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
